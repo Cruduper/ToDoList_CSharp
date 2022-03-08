@@ -10,7 +10,12 @@ img{
   height: auto;
   margin: 1em;
 }
-.listItems ol{
+p:hover{
+  text-decoration: none;
+  color:blueviolet;
+  font-size: larger;
+}
+/* .listItems ol{
   text-align:left;
 }
 .listItems{
@@ -21,4 +26,4 @@ img{
 }
 .urls{
   margin: 2em;
-}
+} */
